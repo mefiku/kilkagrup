@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         KilkaGrup
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  dodaje możliwość wyboru kilku grup wykładowych oraz laboratoryjnych (po dwie)
 // @author       mefiuk
 // @match        *://www.pwsz.nysa.pl/plany/planWydruk.php*
+// @match        *://pwsz.nysa.pl/plany/planWydruk.php*
 // @grant        none
 // ==/UserScript==
 
